@@ -1,4 +1,4 @@
-# 2D Adaptive Mesh Refinement (AMR) Demo (QuadTree)
+# 2D Adaptive Mesh Refinement (AMR) (QuadTree)
 
 A tiny, pure-NumPy/Matplotlib demo of **2D adaptive refinement** on a scalar field.
 It refines a quadtree mesh where the field varies rapidly, so you see more cells
